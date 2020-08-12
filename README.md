@@ -7,3 +7,6 @@ The aim of this project is to analyze the interactions that users have with arti
 ## File Descriptions <a name="files"></a>
 
 The repository contains a .ipynb that has the recommendation code and a .html version of it. 
+
+## Acknowledgments
+I would like to thank [Udacity](https://eu.udacity.com/) for this amazing project, and [IBM](https://dataplatform.cloud.ibm.com/) for providing the data.
